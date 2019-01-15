@@ -13,6 +13,14 @@ int main(){
         printf("qingshuruxinagxingdegongnengbianhao:\n");
         scanf("%d",&code);
         if(code==1){
+            printf("qingshurunidecunkuanjine:\n");
+            int cun;
+            scanf("%d",&cun);
+            char x;
+            qian+=cun;
+            printf("cunruchenggong,dianjihuichejixu\n");
+            scanf("%c",&x);
+            scanf("%c",&x);
 
         }
         if(code==2){
